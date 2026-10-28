@@ -1,5 +1,5 @@
 {
- "cuenta_ig": "syc_importaciones_chile_2025",
+ "cuenta_ig": "sycimportaciones.cl",
  "ig_user_id": "28981541331529823",
  "base_url": "https://syc-inventario.github.io/syc-instagram/",
  "items": [
@@ -59,6 +59,19 @@
     "05-R4-jet-co2-2.jpg",
     "05-R4-jet-co2-3.jpg",
     "05-R4-jet-co2-4.jpg"
+   ]
+  },
+  {
+   "id": 17,
+   "fecha": "2026-10-29",
+   "hora": "20:00",
+   "tipo": "reel",
+   "producto_id": null,
+   "precio_esperado": null,
+   "caption": "DMX en 30 segundos 💡\n5 consejos para que tus luces respondan bien: 512 canales por universo, conexión en cadena, dirección DMX propia, terminador de 120 Ω y cable DMX (no de micrófono).\n📲 Cotiza por WhatsApp +56 9 9071 4892\n🛒 Link en bio · 🚚 Despacho a todo Chile · 🛡️ Garantía\n\n#dmx #iluminacionprofesional #djchile #eventoschile #sycimportaciones #produccionderventos",
+   "estado": "pendiente",
+   "archivos": [
+    "07-A1-dmx-30s.mp4"
    ]
   },
   {
