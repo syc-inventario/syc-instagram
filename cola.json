@@ -44,7 +44,7 @@
       "archivos": [
         "04-R4-jet-co2.mp4"
       ],
-      "nota": "Ya publicado en IG. La imagen muestra $500.000 y el precio web es $550.000: rehacer la gráfica antes de volver a usarlo."
+      "nota": "Ya publicado en IG con imagen a $500.000. Reemplazado por los items 22 y 23 (gráfica a $550.000)."
     },
     {
       "id": 5,
@@ -61,7 +61,7 @@
         "05-R4-jet-co2-3.jpg",
         "05-R4-jet-co2-4.jpg"
       ],
-      "nota": "Ya publicado en IG. La imagen muestra $500.000 y el precio web es $550.000: rehacer la gráfica antes de volver a usarlo."
+      "nota": "Ya publicado en IG con imagen a $500.000. Reemplazado por los items 22 y 23 (gráfica a $550.000)."
     },
     {
       "id": 17,
@@ -286,6 +286,35 @@
         "16-M5-humo-vertical.mp4"
       ],
       "nota": "Confirmar que el video corresponde al modelo Antari 24x3W RGB antes de publicar"
+    },
+    {
+      "id": 22,
+      "fecha": "2026-11-10",
+      "hora": "20:00",
+      "tipo": "reel",
+      "producto_id": 1272,
+      "precio_esperado": 550000,
+      "caption": "Columna de CO2 con luz RGB para el momento peak 💨 Jet Set CO2 con control DMX y case.\n🔥 Oferta: $550.000 (antes $700.000). También manguera de repuesto a $32.900.\n⏳ Oferta válida hasta agotar stock.\n📲 Cotiza por WhatsApp +56 9 9071 4892\n🛒 Link en bio · 🚚 Despacho a todo Chile · 🛡️ Garantía\n\n#sycimportaciones #iluminacionprofesional #efectosespeciales #eventoschile #produccionderventos #djchile",
+      "estado": "pendiente",
+      "archivos": [
+        "22-R4-jet-co2-550.mp4"
+      ]
+    },
+    {
+      "id": 23,
+      "fecha": "2026-11-11",
+      "hora": "13:00",
+      "tipo": "carrusel",
+      "producto_id": 1272,
+      "precio_esperado": 550000,
+      "caption": "Precio actualizado: Jet Set CO2 RGB LED con case 💨 Control DMX y efecto de humo frío.\n🔥 Oferta: $550.000 (antes $700.000).\n⏳ Oferta válida hasta agotar stock.\n📲 Cotiza por WhatsApp +56 9 9071 4892\n🛒 Link en bio · 🚚 Despacho a todo Chile · 🛡️ Garantía\n\n#sycimportaciones #iluminacionprofesional #efectosespeciales #eventoschile #produccionderventos #djchile",
+      "estado": "pendiente",
+      "archivos": [
+        "23-R4-jet-co2-550-1.jpg",
+        "23-R4-jet-co2-550-2.jpg",
+        "23-R4-jet-co2-550-3.jpg",
+        "23-R4-jet-co2-550-4.jpg"
+      ]
     }
   ]
 }
